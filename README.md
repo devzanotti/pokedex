@@ -1,8 +1,10 @@
-# Pokédex - Em desenvolvimento
+# Pokédex
+
+![Pokedex Banner](./assets/img/image.png)
 
 ## Sobre o projeto
 
-Pokédex Desenvolvida com o consumo da API REST [PokéApi](https://pokeapi.co/).
+Pokédex Desenvolvida com o consumo da API REST [PokéApi](https://pokeapi.co/), utilizando o conceito MobileFirst.
 
 ![GitHub stars](https://img.shields.io/github/stars/devzanotti/pokedex)
 ![GitHub forks](https://img.shields.io/github/forks/devzanotti/pokedex)
@@ -15,7 +17,8 @@ Pokédex Desenvolvida com o consumo da API REST [PokéApi](https://pokeapi.co/).
 
 ## Funcionalidades
 
-- Em Desenvolvimento
+- Listar conteudo do Json no HTML de maneira dinamica
+- Paginação, limitada ao numero de itens maximo da requisição
 
 ## Como Usar
 
