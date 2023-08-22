@@ -78,6 +78,23 @@
     background-color: #f9aec7;
 }
 
+.cabecalho{
+    margin-left: .5rem;    
+}
+
+.hamburger{
+    width: 2rem;
+    float: right;
+}
+
+.pokebola{
+    position: relative;
+}
+
+.content h1{
+    margin: 1.5rem 0rem 1.5rem 0.5rem;   
+}
+
 .pokemon{
     padding: 1.5rem 1rem;
     margin: .5rem;
