@@ -1,6 +1,6 @@
 # Pokédex
 
-![Pokedex Banner](./assets/img/image.png)
+![Pokedex Banner](./assets/img/image2.png)
 ## Sobre o projeto
 
 Pokédex Desenvolvida com o consumo da API REST [PokéApi](https://pokeapi.co/), utilizando o conceito MobileFirst.
